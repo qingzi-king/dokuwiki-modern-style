@@ -7,3 +7,7 @@
 - /conf/local.php
 - /conf/users.auth.php
 - /conf/acl.auth.php
+
+## 补充说明
+
+- 初始用户名：admin，密码：123456
