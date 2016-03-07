@@ -1,3 +1,3 @@
-test/*
-data/pages/*
+test
+pages
 node_modules
