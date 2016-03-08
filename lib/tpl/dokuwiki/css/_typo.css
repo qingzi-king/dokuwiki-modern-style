@@ -1,12 +1,11 @@
 
 /* #dokuwiki__content内容 */
 #dokuwiki__content {
-  /*
-  * PingFang SC, Lantinghei SC, 
-  */
-  font: 300 1em/1.8 Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans;
+  font: 400 1em/1.8 Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans;
 }
+
 #dokuwiki__content p {
+  font: 400 1.15em/1.6 Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans;
   margin-bottom: 1.2em;
 }
 
@@ -16,10 +15,10 @@
   color: #999;
   font-weight: 400;
   border: none;
+  box-shadow: none;
   border-left: 1px solid #a9334c;
   padding-left: 1em;
   margin: 1em 2% 1em 2%;
-  box-shadow: none;
 }
 
 

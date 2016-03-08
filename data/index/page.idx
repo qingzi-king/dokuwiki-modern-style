@@ -1,3 +1,5 @@
 wiki:welcome
 wiki:syntax
 wiki:dokuwiki
+sidebar
+playground:playground

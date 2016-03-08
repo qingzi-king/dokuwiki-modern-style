@@ -1,0 +1,54 @@
+
+/* #dokuwiki__content内容 */
+#dokuwiki__content {
+  font: 400 1em/1.8 Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans;
+}
+
+#dokuwiki__content p {
+  font: 400 1.15em/1.6 Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans;
+  margin-bottom: 1.2em;
+}
+
+/* 块/代码引用 */
+#dokuwiki__content pre {
+  position: relative;
+  color: #999;
+  font-weight: 400;
+  border: none;
+  border-left: 1px solid #a9334c;
+  padding-left: 1em;
+  margin: 1em 2% 1em 2%;
+  box-shadow: none;
+}
+
+/* 引用 */
+
+#dokuwiki__content blockquote {
+  padding: 5px 10px;
+  font-size: 1.05em;
+  font-weight: 400;
+}
+
+/* 评论区域 */
+div.picker {
+  padding: 5px;
+  background-color: #FFF;
+}
+div.picker .pickerbutton {
+  background-color: #FFF;
+}
+div.picker .pickerbutton:hover {
+  background-color: #E5E5E5;
+}
+div.picker .toolbutton {
+  background-color: #FFF;
+}
+div.picker .toolbutton:hover {
+  background-color: #E5E5E5;
+}
+
+#comment_wrapper .comment_preview_button {
+  margin: 0px 15px;
+}
+
+
