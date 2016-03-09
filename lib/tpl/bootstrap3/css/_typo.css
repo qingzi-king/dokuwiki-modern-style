@@ -19,6 +19,7 @@
   padding-left: 1em;
   margin: 1em 2% 1em 2%;
   box-shadow: none;
+  border-radius: 0px;
 }
 
 /* 引用 */
@@ -27,6 +28,7 @@
   padding: 5px 10px;
   font-size: 1.05em;
   font-weight: 400;
+  margin: 0px;
 }
 
 /* 评论区域 */
